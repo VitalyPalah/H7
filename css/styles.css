@@ -1,0 +1,84 @@
+.wrapper{
+    background-color: #ffffff;
+}
+
+.header{
+    text-align: center;
+}
+
+.header_footer{
+    margin-top: 140px;
+    margin-bottom: 40px;
+}
+
+.site_header{
+    color: #0ec8cb;
+    margin-bottom: 50px;
+}
+
+.header_article{
+    width: 560px;
+    text-align: center;
+    margin-left: 625px;
+}
+
+.content{
+    text-align: center;
+    margin-top: 110px;
+}
+
+.first_collom{
+    width: 270px;
+    display: inline-block;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 55px;
+    padding-bottom: 90px;
+}
+
+.first_collom:hover{
+    background-color: #0ec8cb;
+    color: #ffffff;
+}
+
+.second_collom{
+    width: 270px;
+    display: inline-block;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 55px;
+    padding-bottom: 90px;
+}
+
+.second_collom:hover{
+    background-color: #0ec8cb;
+    color: #ffffff;
+}
+
+.third_collom{
+    width: 270px;
+    display: inline-block;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 55px;
+    padding-bottom: 90px;
+}
+
+.third_collom:hover{
+    background-color: #0ec8cb;
+    color: #ffffff;
+}
+
+.fourth_collom{
+    width: 270px;
+    display: inline-block;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 55px;
+    padding-bottom: 90px;
+}
+
+.fourth_collom:hover{
+    background-color: #0ec8cb;
+    color: #ffffff;
+}
